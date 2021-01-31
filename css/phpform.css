@@ -1,0 +1,16 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 7, 2021, 3:28:52 PM
+    Author     : User
+*/
+
+.my-card{
+    width: 52%;
+    -webkit-box-shadow: 2px 6px 59px 3px rgba(158,153,55,1);
+    -moz-box-shadow: 2px 6px 59px 3px rgba(158,153,55,1);
+    box-shadow: 2px 6px 59px 3px rgba(158,153,55,1);
+}
