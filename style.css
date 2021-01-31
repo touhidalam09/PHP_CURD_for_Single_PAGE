@@ -1,0 +1,31 @@
+
+.end-as-section{
+    padding-top: 200px;
+    padding-bottom: 15px;
+    color: red;
+}
+.my-btn-vfni:hover{
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 25px;
+    transition: padding 1s;
+    -webkit-box-shadow: 5px 12px 46px 0px rgba(57,173,80,1);
+    -moz-box-shadow: 5px 12px 46px 0px rgba(57,173,80,1);
+    box-shadow: 5px 12px 46px 0px rgba(57,173,80,1);
+}
+.insert-form-secton{
+    padding: 20px 0;
+}
+.my-submit-btn:hover{
+    padding-left: 60px;
+    padding-right: 60px;
+    -webkit-box-shadow: 5px 12px 46px 0px rgba(57,173,80,1);
+    -moz-box-shadow: 5px 12px 46px 0px rgba(57,173,80,1);
+    box-shadow: 5px 12px 46px 0px rgba(57,173,80,1);
+    border-radius: 25px;
+    transition: padding 1s;
+}
+
+.blue{
+    display: none;
+}
